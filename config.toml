@@ -1,0 +1,7 @@
+baseurl = "https://theking009.github.io"
+title = "The King Portfolio"
+
+theme = "hugo-coder"
+languagecode = "en"
+
+defaultcontentlanguage = "en"
